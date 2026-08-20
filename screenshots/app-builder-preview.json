@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/login",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RGB Workshop",
+      "hasCanvas": false,
+      "bodyTextLen": 174,
+      "bodyTextHash": "f945bd25f9000cabe3f98214af57072315f48d6923d8790ff913f1d42c70b258",
+      "bodyTextPrefix": "RGB Workshop 工作室的私人媒體庫 上載相片、MP4 與 MP3，檔案會放到 GitHub 公開庫，即時得到像 xxx",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RGB Workshop",
+      "hasCanvas": false,
+      "bodyTextLen": 76,
+      "bodyTextHash": "d2b4c48546a6924745fe68d754a9c4be52af142215e96128bb9a83d79113aae0",
+      "bodyTextPrefix": "RGB Workshop SIGN IN 用 Google 登入 此空間只限 info@rgb-workshop.com 使用。",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
